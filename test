@@ -1,0 +1,4 @@
+    "mbuild-add": "bin/mbuild-add",
+    "mbuild-delete": "bin/mbuild-delete",
+    "mbuild-list": "bin/mbuild-list",
+    "mbuild-init": "bin/mbuild-init"
